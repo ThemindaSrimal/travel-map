@@ -20,7 +20,7 @@ const UserSchema = new mongoose.Schema({
         min: 6,
     },
     },
-    {Timestamp: true}
+    {tempstamps: true}
 );
 
 module.exports = mongoose.model("User", UserSchema);
