@@ -140,7 +140,10 @@ function App() {
               closeButton={true}
               closeOnClick={false}
               anchor="left" 
-              onClose={()=>setCurrentPlaceId(null)}
+              onClose={()=>{
+                setNewPlace(null);
+              }
+              }
             >
               <div>
                 <form onSubmit={handleSubmit}>
