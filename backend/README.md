@@ -1,1 +1,2 @@
-https://map-mark-travel.herokuapp.com/api
+https://map-mark-travel.herokuapp.com/api/pins
+
