@@ -1,4 +1,4 @@
-# travel-map pinning application
+## travel-map pinning application
 
 ![1](https://user-images.githubusercontent.com/67902627/124473674-3bfe2180-ddbd-11eb-9e70-e5efb853b7ce.PNG)
 ![2](https://user-images.githubusercontent.com/67902627/124473695-415b6c00-ddbd-11eb-9528-c4f941433b37.PNG)
